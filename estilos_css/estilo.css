@@ -1,0 +1,26 @@
+BODY{
+
+	 background-image: url(https://www.vulka.es/imagenes/empresas_fotos/73607_big.jpg);
+
+}
+
+a {
+  color: white; 
+
+    background-color: green;
+   
+  }
+
+
+
+a:hover {
+  color: black;
+  cursor: pointer;
+}
+
+
+h1 {
+  color: blue; 
+
+   
+  }
